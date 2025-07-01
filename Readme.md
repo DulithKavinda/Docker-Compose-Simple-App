@@ -1,4 +1,4 @@
-## Run the app
+## Buid and start the app
 
     docker compose up -d
 
